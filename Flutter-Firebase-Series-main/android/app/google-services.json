@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "679588831210",
+    "project_id": "internheroes-49040",
+    "storage_bucket": "internheroes-49040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679588831210:android:1a2400ed3b64f9091fdc93",
+        "android_client_info": {
+          "package_name": "com.example.internheroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679588831210-jvd3gg7ecvfvf2iebeoi3vakil8ia54o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSviAfXdUfHWwjRXlP1BG9l_wWnQ0GtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679588831210-jvd3gg7ecvfvf2iebeoi3vakil8ia54o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679588831210-cip870mle3gpjv9qdadf9pd73j3h8395.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internheroes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
